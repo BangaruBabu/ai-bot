@@ -1,6 +1,11 @@
 # Artificail Intelligence-Human Bot
 
-Artificial Intelligence Bot POC design - A Re usable component for any case study
+This bot is cognitive enables Human Bot , we can automate any business case study with Interactive capabilities   
+Artificial Intelligence Bot POC design - A Re usable component for any case study .
+
+______________________________________________________________________
+
+##Terminology 
 
 # Artificial Intelligence (AI)
 
